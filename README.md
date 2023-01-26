@@ -15,7 +15,7 @@ Habilidades: / REACT / JS / HTML / CSS/ MONGODB/ NODE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/javier2a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/javier2a//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/javier2a)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/javier2a)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
