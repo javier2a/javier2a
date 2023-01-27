@@ -1,10 +1,6 @@
 ### Hola 👋, mi nombre es Javier
 #### Soy Fronted Develorper 
-Soy un desarrollador front-end apasionado con experiencia en el desarrollo de aplicaciones web utilizando React. Me gusta trabajar en proyectos desafiantes y me esfuerzo por seguir las últimas tendencias y mejores prácticas en desarrollo web. Me gusta trabajar en equipo y colaborar con otros desarrolladores para crear soluciones innovadoras y de alta calidad.
 
-Mi experiencia incluye la creación de componentes reutilizables y escalables, optimización del rendimiento y el uso de herramientas modernas como Webpack y Git. También tengo experiencia en el uso de bibliotecas y marcos de trabajo adicionales como Redux y Axios para el manejo de estado y las solicitudes de red.
-
-Estoy constantemente aprendiendo y me esfuerzo por mejorar mis habilidades y conocimientos en el desarrollo web. Estoy emocionado de aplicar mis habilidades en proyectos emocionantes y desafiantes y trabajar con un equipo dedicado en el desarrollo de soluciones innovadoras.
 
 Habilidades: / REACT / JS / HTML / CSS/ MONGODB/ NODE
 
