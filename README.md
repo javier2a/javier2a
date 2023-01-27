@@ -1,6 +1,5 @@
 ### Hola 👋, mi nombre es Javier
-#### Soy Fronted Develorper 
-
+#### I am a Front-end developer with experience in software development. I specialize in React and creating user-friendly and functional interfaces. If you're looking for a developer with Front-end and software development skills, feel free to take a look at my work and contact me
 
 Habilidades: / REACT / JS / HTML / CSS/ MONGODB/ NODE
 
